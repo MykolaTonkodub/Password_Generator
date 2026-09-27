@@ -1,0 +1,76 @@
+body {
+
+    margin:  0px;
+}
+
+.selection {
+
+    width: 100%;
+    max-width: 500px;
+    
+    background: rgb(32, 46, 63);
+    padding: 30px 30px 50px 30px;
+
+    color: white;
+    
+
+    margin: 0 auto ;
+    box-sizing: border-box;
+}
+
+h1 {
+
+    margin: 0;
+    font-size: 45px;
+}
+
+h1 span {
+
+    color: rgb(85, 252, 160)
+}
+
+.subtitle {
+
+    color: lightgray;
+    margin-bottom: 40px ;
+    font-size: 18px;
+
+}
+
+button {
+
+ background: rgb(65, 185, 119) ;
+ padding: 15px;
+ margin: 0;
+
+ color: white;
+ font-size: 18px;
+
+ border: none;
+ border-radius: 5px;
+}
+
+.divider {
+
+    background: rgb(49, 64, 83);
+    width: 440px;
+    height: 2px;
+    margin: 50px auto 20px auto;
+   
+}
+
+.passwordOne, .passwordTwo {
+
+    display: inline-block;
+    background: rgb(49, 64, 83);
+    padding: 20px 80px;
+    margin: 10px 13px;
+    border-radius: 3px;
+    width: 150px;
+    
+}
+
+.center {
+    
+    text-align: center;
+}
